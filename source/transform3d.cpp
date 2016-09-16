@@ -1,5 +1,5 @@
 /*
-Title: Texturing a Cube
+Title: Basic Lighting
 File Name: transform3d.cpp
 Copyright ? 2016
 Author: David Erbelding

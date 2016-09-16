@@ -1,5 +1,5 @@
 /*
-Title: Texturing a Cube
+Title: Basic Lighting
 File Name: fpsController.h
 Copyright ? 2016
 Author: David Erbelding
